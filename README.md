@@ -7,7 +7,7 @@ The goal is to analyze and visualize the factors that influence happiness scores
 
 - Analyze key factors affecting the happiness scores of countries.
 - Visualize relationships between happiness score and factors such as GDP per capita, social support, life expectancy, and more.
-- Identify trends and top/bottom performing countries.
+- Identify trends and top/bottom-performing countries.
 - Derive insights to inform public policy and wellbeing initiatives.
 
 ## 🛠️ Tools & Technologies Used
@@ -57,3 +57,8 @@ The project includes:
 This analysis shows that economic, social, and health-related factors significantly influence happiness. 
 Countries that invest in wellbeing and freedom tend to have happier populations. 
 Insights from this analysis can support policies geared toward improving quality of life worldwide.
+
+## 👩‍💻 Author
+Orjiude Esther Obianuju
+Aspiring Data Analyst | Python | SQL | Power BI
+www.linkedin.com/in/orjiude-esther 
