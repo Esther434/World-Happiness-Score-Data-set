@@ -59,6 +59,6 @@ Countries that invest in wellbeing and freedom tend to have happier populations.
 Insights from this analysis can support policies geared toward improving quality of life worldwide.
 
 ## 👩‍💻 Author
-Orjiude Esther Obianuju
-Aspiring Data Analyst | Python | SQL | Power BI
-www.linkedin.com/in/orjiude-esther 
+- Orjiude Esther Obianuju
+- Aspiring Data Analyst | Python | SQL | Power BI
+- www.linkedin.com/in/orjiude-esther 
